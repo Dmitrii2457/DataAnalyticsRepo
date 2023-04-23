@@ -58,7 +58,7 @@ https://metabase.sky.pro/question/61307
 
 Наконец, с помощью функции GROUP BY, происходит суммирование балансов всех пользователей за каждую дату, чтобы получить общий баланс за эту дату.
 
-Вывод: ""
+Вывод: "https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/PostgreSql%20%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC.xlsx"
 
 
 
