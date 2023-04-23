@@ -34,7 +34,7 @@
 Что нужно было сделать:
 
 Задача №1
-![alt text](blob:https://web.telegram.org/02fabca6-8e01-4e17-84f2-436bb225aed8)
+!(https://web.telegram.org/02fabca6-8e01-4e17-84f2-436bb225aed8)
 Задача №2.
 
 
