@@ -60,8 +60,7 @@ https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/%D0%9F%D1%80%D0%BE%D1
 
 
 ### Проект 2: Моделирование изменения балансов студентов
-https://github.com/Dmitrii2457/DataAnalyticsRepo/commit/48911edab8bb5662f1c99f0e1ba97cc658aafdb4
-
+https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/48911edab8bb5662f1c99f0e1ba97cc658aafdb4/%D0%9F%D1%80%D0%BE%D1%8D%D0%BA%D1%82%202.xlsx
 
 ### Что нужно было сделать:
 
