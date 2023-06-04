@@ -26,7 +26,8 @@
 * Теория вероятностей и мат. статистика
 #### Проэкты:
 ### Проект 1: Калькулятор юнит-экономики онлайн-школы
-https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/%D0%9F%D1%80%D0%BE%D1%8D%D0%BA%D1%82%201.xlsx
+https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.xlsx
+
 
 ### Что нужно было сделать:
 
@@ -61,7 +62,8 @@ https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/%D0%9F%D1%80%D0%BE%D1
 
 
 ### Проект 2: Моделирование изменения балансов студентов
-https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/48911edab8bb5662f1c99f0e1ba97cc658aafdb4/%D0%9F%D1%80%D0%BE%D1%8D%D0%BA%D1%82%202.xlsx
+https://github.com/Dmitrii2457/DataAnalyticsRepo/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.xlsx
+
 
 ### Что нужно было сделать:
 
